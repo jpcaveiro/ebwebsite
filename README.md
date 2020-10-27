@@ -1,9 +1,10 @@
-# ebwebsite
+# EB website
 
 **Estatística Biomédica (UA) - web site**
 
-* partilha de ocorrências na documentação e R ([Issues](https://github.com/jpcaveiro/ebwebsite/issues/)) 
-* outra documentação
+A secção [Issues](https://github.com/jpcaveiro/ebwebsite/issues/), em cima lado esquerdo, copntém a partilha de ocorrências variadas no decurso normal da utilização da [linguagem R](https://cloud.r-project.org/) e do ambiente de estatística computacional [RStudio](https://rstudio.com/products/rstudio/download/) (que usa a linguagem R).
+
 
 João Pedro Cruz
-Docente de EB / UAveiro
+
+Docente das aulas PL de EB / UAveiro
