@@ -1,8 +1,9 @@
-# Estatística Biomédica (UA) - web site
+# Estatística Biomédica -- FAQ (Perguntas frequentes)
 
-## FAQ (Perguntas frequentes)
+## R e RStudio:
 
 * [sapply()](sapply.md)
+* [erro com pasta 00LOCK](https://github.com/jpcaveiro/ebwebsite/issues/10)
 
 
 ## Outros
@@ -11,5 +12,6 @@ A secção [Issues](https://github.com/jpcaveiro/ebwebsite/issues/), em cima lad
 
 @2020, 2021
 
-* Adelaide Freitas
 * João Pedro Cruz
+* Adelaide Freitas
+
