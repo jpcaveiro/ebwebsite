@@ -8,7 +8,7 @@
 * [Perguntas frequentes no Capítulo 6](https://github.com/jpcaveiro/ebwebsite/issues?q=is%3Aissue+is%3Aopen+label%3A%22Cap%C3%ADtulo+6%22)
 * [Perguntas frequentes no Capítulo 7](https://github.com/jpcaveiro/ebwebsite/issues?q=is%3Aissue+is%3Aopen+label%3A%22Cap%C3%ADtulo+7%22)
 
-Ou abrir a aba "Issues" e procurar algo específico.
+Ou abrir a aba "[Issues](https://github.com/jpcaveiro/ebwebsite/issues)" e procurar algo específico na caixa "Filter:".
 
 ## Como criar "issues" (só inscritos no website)
 
