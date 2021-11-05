@@ -2,11 +2,13 @@
 
 * [Perguntas frequentes no Capítulo 1, o R e RStudio](https://github.com/jpcaveiro/ebwebsite/issues?q=is%3Aissue+is%3Aopen+label%3A%22Cap%C3%ADtulo+2%22)
 * [Perguntas frequentes no Capítulo 2](https://github.com/jpcaveiro/ebwebsite/issues?q=is%3Aissue+is%3Aopen+label%3A%22Cap%C3%ADtulo+2%22)
+* [Perguntas frequentes no Capítulo 3](https://github.com/jpcaveiro/ebwebsite/issues?q=is%3Aissue+is%3Aopen+label%3A%22Cap%C3%ADtulo+3%22)
+* [Perguntas frequentes no Capítulo 4](https://github.com/jpcaveiro/ebwebsite/issues?q=is%3Aissue+is%3Aopen+label%3A%22Cap%C3%ADtulo+4%22)
+* [Perguntas frequentes no Capítulo 5](https://github.com/jpcaveiro/ebwebsite/issues?q=is%3Aissue+is%3Aopen+label%3A%22Cap%C3%ADtulo+5%22)
+* [Perguntas frequentes no Capítulo 6](https://github.com/jpcaveiro/ebwebsite/issues?q=is%3Aissue+is%3Aopen+label%3A%22Cap%C3%ADtulo+6%22)
+* [Perguntas frequentes no Capítulo 7](https://github.com/jpcaveiro/ebwebsite/issues?q=is%3Aissue+is%3Aopen+label%3A%22Cap%C3%ADtulo+7%22)
 
-
-## Todas as questões levantadas:
-
-A secção [Issues](https://github.com/jpcaveiro/ebwebsite/issues/), em cima lado esquerdo, contém a partilha de ocorrências variadas no decurso normal da utilização da [linguagem R](https://cloud.r-project.org/) e do ambiente de estatística computacional [RStudio](https://rstudio.com/products/rstudio/download/) (que usa a linguagem R).
+Ou abrir a aba "Issues" e procurar algo específico.
 
 ## Como criar "issues" (só inscritos no website)
 
