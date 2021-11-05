@@ -8,6 +8,15 @@
 
 A secção [Issues](https://github.com/jpcaveiro/ebwebsite/issues/), em cima lado esquerdo, contém a partilha de ocorrências variadas no decurso normal da utilização da [linguagem R](https://cloud.r-project.org/) e do ambiente de estatística computacional [RStudio](https://rstudio.com/products/rstudio/download/) (que usa a linguagem R).
 
+## Como criar "issues" (só inscritos no website)
+
+
+1. Abrir https://github.com/jpcaveiro/ebwebsite/issues
+2. Selecionar botão direito "New issue"
+3. Copiar e colar imagens, se necessário; escrever o título informativo e texto
+4. Escolher "Label": Capítulo 1, Capítulo 2, quantas necessárias
+5. Botão "Submit" (ou Commit)
+
 @2020, @2021
 
 * João Pedro Cruz
