@@ -1,16 +1,7 @@
-# Estatística Biomédica -- FAQ (Perguntas frequentes)
+# Estatística Biomédica -- FAQ 
 
-
-**Capítulo 1** e generalidades **R e RStudio**
-
-* [sapply()](sapply.md)
-* [erro com pasta 00LOCK](https://github.com/jpcaveiro/ebwebsite/issues/10)
-
-* [Capítulo 1](https://github.com/jpcaveiro/ebwebsite/issues?q=is%3Aissue+is%3Aopen+label%3A%22Cap%C3%ADtulo+2%22)
-
-**Capítulo 2**
-
-* [Capítulo 2](https://github.com/jpcaveiro/ebwebsite/issues?q=is%3Aissue+is%3Aopen+label%3A%22Cap%C3%ADtulo+2%22)
+* [Perguntas frequentes no Capítulo 1, o R e RStudio](https://github.com/jpcaveiro/ebwebsite/issues?q=is%3Aissue+is%3Aopen+label%3A%22Cap%C3%ADtulo+2%22)
+* [Perguntas frequentes no Capítulo 2](https://github.com/jpcaveiro/ebwebsite/issues?q=is%3Aissue+is%3Aopen+label%3A%22Cap%C3%ADtulo+2%22)
 
 
 ## Todas as questões levantadas:
