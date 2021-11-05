@@ -1,6 +1,7 @@
 # Estatística Biomédica -- FAQ 
 
-* [Perguntas frequentes no Capítulo 1, o R e RStudio](https://github.com/jpcaveiro/ebwebsite/issues?q=is%3Aissue+is%3Aopen+label%3A%22Cap%C3%ADtulo+2%22)
+* [Perguntas frequentes sobre R, RMarkdown, Gráficos e Ficheiros](https://github.com/jpcaveiro/ebwebsite/labels/R%20RMarkdown%20Gr%C3%A1ficos%20Ficheiros)
+* [Perguntas frequentes no Capítulo 1](https://github.com/jpcaveiro/ebwebsite/issues?q=is%3Aissue+is%3Aopen+label%3A%22Cap%C3%ADtulo+1%22)
 * [Perguntas frequentes no Capítulo 2](https://github.com/jpcaveiro/ebwebsite/issues?q=is%3Aissue+is%3Aopen+label%3A%22Cap%C3%ADtulo+2%22)
 * [Perguntas frequentes no Capítulo 3](https://github.com/jpcaveiro/ebwebsite/issues?q=is%3Aissue+is%3Aopen+label%3A%22Cap%C3%ADtulo+3%22)
 * [Perguntas frequentes no Capítulo 4](https://github.com/jpcaveiro/ebwebsite/issues?q=is%3Aissue+is%3Aopen+label%3A%22Cap%C3%ADtulo+4%22)
