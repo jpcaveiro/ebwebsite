@@ -15,7 +15,9 @@ A secção [Issues](https://github.com/jpcaveiro/ebwebsite/issues/), em cima lad
 2. Selecionar botão direito "New issue"
 3. Copiar e colar imagens, se necessário; escrever o título informativo e texto
 4. Escolher "Label": Capítulo 1, Capítulo 2, quantas necessárias
-5. Botão "Submit" (ou Commit)
+5. Botão "Submit New Issue" 
+
+Posteriormente, em qualquer altura, dá para editar e alterar ou "fechar" o "issue".
 
 @2020, @2021
 
